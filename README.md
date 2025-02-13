@@ -8,6 +8,7 @@ This repository contains a collection of 30 AI projects that range from fundamen
 2. **Simple Chatbot using predefined responses**: Implements a basic chatbot that uses predefined responses to interact with users. This project demonstrates how to create a simple rule-based chatbot without the need for machine learning models. The chatbot can handle a limited set of queries and provide appropriate responses based on predefined rules.
 3. **Spam Email Detector using sklearn with Kaggle dataset**: Focuses on building a spam email detection system using the `sklearn` library and a dataset from Kaggle. This project involves preprocessing the email data, extracting features, and training a machine learning model to classify emails as spam or not spam. The notebook covers various steps such as data cleaning, feature extraction, model training, and evaluation.
 4. **Human Activity Recognition with Smartphones**:
+5. **Sentiment Analysis using NLTK**: A basic Sentiment Analysis on movie review dataset using NLTK with Naive Bayes Classifier
 
 ## Getting Started
 
